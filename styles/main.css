@@ -315,6 +315,14 @@ body{
     background: #4954B6;
     padding-top: 12px;
     padding-bottom: 12px;
+
+    position: relative;
+}
+
+.pp_header__core-banner{
+    position: absolute;
+    top: -2px;
+    right: -4px;
 }
 
 .pp_header__core__above-mdfont{
